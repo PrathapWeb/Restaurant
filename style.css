@@ -44,7 +44,6 @@
 
 .bgImg {
     background-image: url("img1.jpg");
-    background-position: center;
     width: auto;
     height: 700px;
     background-size: cover;
